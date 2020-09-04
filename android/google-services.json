@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "238379051574",
+    "firebase_url": "https://delicate-bird.firebaseio.com",
+    "project_id": "delicate-bird",
+    "storage_bucket": "delicate-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238379051574:android:1c72a9657a4e6d5c8b8697",
+        "android_client_info": {
+          "package_name": "com.sharmajikapps.delicatebird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238379051574-1tp6s022ftedtbhccmek48i1cgv5erb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PZTpFxnrY-rXRw_5xQKhdtK4yJPjiJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238379051574-1tp6s022ftedtbhccmek48i1cgv5erb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7282200021394338~6235284138"
+    }
+  ],
+  "configuration_version": "1"
+}
